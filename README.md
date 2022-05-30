@@ -1,4 +1,3 @@
 🔥Sup guys🔥<br/>
-This is Jason Chou <br/>
-I love Python 👨🏻‍💻<br/>
+This is Yung Chou <br/>
 Contact me at jasonzhouzzy@gmail.com
