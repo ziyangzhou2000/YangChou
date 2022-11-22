@@ -1,3 +1,3 @@
 🔥Sup guys🔥<br/>
-This is Yung Chou <br/>
+This is Yang Chou <br/>
 Contact me at jasonzhouzzy@gmail.com
