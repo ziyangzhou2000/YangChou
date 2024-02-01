@@ -1,7 +1,7 @@
 # Hello, I'm Ziyang Zhou! 👋
 
 ## About Me
-I'm based in Manchester, UK. I have a passion for coding and technology, and I enjoy working with Java, Python and C++.
+I'm based in Manchester UK. I have a passion for coding and technology, and I enjoy working with Java, Python and C++.
 
 ## Find Me Online
 - **Email:** jasonzhouzzy@gmail.com
